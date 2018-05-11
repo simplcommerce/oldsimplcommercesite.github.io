@@ -448,6 +448,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .content {
 	padding: 40% 0 0;
 }
+.intro-text h1 {
+	font-size: 45px;
+}
+h2 {
+	font-size: 30px;
+}
 }
 
 @media (max-width: 603px) {
